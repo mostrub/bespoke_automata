@@ -19,7 +19,7 @@
   "license": "GPL3",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
-    "undici": "^6.6.2"
+    "undici": "^6.11.1"
   },
   "devDependencies": {
     "@electron-forge/cli": "^7.2.0",
